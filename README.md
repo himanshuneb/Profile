@@ -2,15 +2,13 @@
 
 <link rel="stylesheet" type="text/css" media="all" href="styles.css" />
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Himanshu Neb </h1>
-<h2 class="noborder">A 3rd-year student pursuing Bachelors in Computer science from Thapar Institute of Engineering and technology.</h2>
+<h2 class="noborder">A 3rd-year student pursuing Bachelors in CSE from Thapar Institute of Engineering and technology.</h2>
 <br>
 
-## I'm a BE - Computer Science student at Thapar Institute
-
-- 💡 I like to explore new technologies and try to solve problems in shortest and easiest way possible.
-- 🌱 I'm on track for learning more about Machine Learning, Web Development and App Development.
-- 👯 I’m looking to collaborate with anyone on projects.
-- 💬 Feel free to reach out to me for some interesting discussion.
+- I like to explore new technologies and try to solve problems in shortest and easiest way possible.
+- I'm on track for learning more about Machine Learning, Web Development and App Development.
+- I’m looking to collaborate with anyone on projects.
+- Feel free to reach out to me for some interesting discussion.
 
 ## Find me on:
 
