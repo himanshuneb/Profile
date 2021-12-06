@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Himanshu Neb
+<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Yashvardhan Arora</h1>
 
 <br />
 
