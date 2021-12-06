@@ -1,10 +1,9 @@
-<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Himanshu Neb </h1>
-<h2 align="center" class="noborder">A 3rd-year student pursuing Bachelors in Computer science from Thapar Institute of Engineering and technology.</h2>
-<br>
-<br />
-
 [![Github](https://img.shields.io/github/followers/himanshuneb?label=Follow&style=social)](https://github.com/himanshuneb) &nbsp; ![views](https://komarev.com/ghpvc/?username=himanshuneb)
+
+<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+<h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Himanshu Neb </h1>
+<h2 class="noborder">A 3rd-year student pursuing Bachelors in Computer science from Thapar Institute of Engineering and technology.</h2>
+<br>
 
 ## I'm a BE - Computer Science student at Thapar Institute
 
