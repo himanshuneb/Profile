@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" type="text/css" media="all" href="styles.css" />
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Himanshu Neb </h1>
-<h2 class="noborder">A 3rd-year student pursuing Bachelors in CSE from Thapar Institute of Engineering and technology.</h2>
+<h2 class="noborder">A 3rd-year student pursuing Bachelors in CSE from Thapar Institute of Engineering and Technology.</h2>
 <br>
 
 - I like to explore new technologies and try to solve problems in shortest and easiest way possible.
@@ -32,10 +32,19 @@
 
 <br />
 
-## ⚙️ GitHub Analytics
+## GitHub stats
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=himanshuneb&show_icons=true&theme=dark" width = 500>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuneb&theme=dark" width = 300>
   <img src = "http://github-readme-streak-stats.herokuapp.com?user=himanshuneb&theme=dark&fire=46D1E4&ring=46D1E4&currStreakLabel=46D1E4&border=DDDDDD&currStreakNum=FFFFFF&sideLabels=46D1E4&dates=FA8B00" width = 500>
+</p>
+
+<br>
+<p align="center">
+    :arrow_down: Scroll down to see my top repositories :arrow_down:
+    <br>
+    <b>
+      Show some ❤️ by starring some of the repositories!
+    </b>
 </p>
