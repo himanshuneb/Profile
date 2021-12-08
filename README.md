@@ -10,12 +10,11 @@
 - I’m looking to collaborate with anyone on projects.
 - Feel free to reach out to me for some interesting discussion.
 
-## Find me on:
+<h3 style="left: 50px; position:relative;">Connect with me:</h3>
 
-<p align="center">
- <a href="https://www.linkedin.com/in/himanshu-neb/"><img src="linkedin.png" alt="LinkedIn" height="70" style="vertical-align:top; margin:4px; padding:8px"></a>
- <a href="mailto:himanshuneb@gmail.com"> <img src="gmail1.png" alt="Gmail" height="70" style="vertical-align:top; margin:4px; padding:8px"></a>
-</p>
+<a href="https://twitter.com/HimanshuNeb"><img align="left" title="Twitter - Himanshu Neb" alt="Twitter" height="28px" src="./logos/twitter_coloured.png" /></a>
+<a href="https://www.linkedin.com/in/himanshu-neb/"><img align="left" title="LinkedIn - Himanshu Neb" alt="LinkedIn" height="28px" src="./logos/linkedin_coloured.png" /></a>
+<a href="mailto:himanshuneb@gmail.com"><img align="left" title="Mail - Himanshu Neb" alt="Mail" height="28px" src="./logos/gmail_coloured.png" /></a>
 
 <br />
 
